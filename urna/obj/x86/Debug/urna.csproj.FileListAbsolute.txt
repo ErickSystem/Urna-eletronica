@@ -1,0 +1,38 @@
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.Form1.resources
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.Form2.resources
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\bin\Debug\urna.exe
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\bin\Debug\urna.pdb
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.Properties.Resources.resources
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.exe
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.pdb
+E:\Download\urna\urna\obj\x86\Debug\urna.exe
+E:\Download\urna\urna\obj\x86\Debug\urna.pdb
+E:\Download\urna\urna\bin\Debug\urna.exe
+E:\Download\urna\urna\bin\Debug\urna.pdb
+E:\Download\urna\urna\obj\x86\Debug\urna.csprojResolveAssemblyReference.cache
+E:\Download\urna\urna\obj\x86\Debug\urna.Form1.resources
+E:\Download\urna\urna\obj\x86\Debug\urna.Form2.resources
+E:\Download\urna\urna\obj\x86\Debug\urna.Properties.Resources.resources
+E:\Download\urna\urna\obj\x86\Debug\urna.csproj.GenerateResource.Cache
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.exe
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.pdb
+E:\executaveis liberados\urna\urna\bin\Debug\urna.exe
+E:\executaveis liberados\urna\urna\bin\Debug\urna.pdb
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.Form1.resources
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.Form2.resources
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.Properties.Resources.resources
+E:\executaveis liberados\urna\urna\obj\x86\Debug\urna.csproj.GenerateResource.Cache
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.exe
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.pdb
+D:\PROGRAMING\C#\urna\urna\bin\Debug\urna.exe
+D:\PROGRAMING\C#\urna\urna\bin\Debug\urna.pdb
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.Form1.resources
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.Form2.resources
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.Properties.Resources.resources
+D:\PROGRAMING\C#\urna\urna\obj\x86\Debug\urna.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\C#\urna\urna\obj\x86\Debug\urna.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\Urna-eletronica\urna\obj\x86\Debug\urna.exe
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\Urna-eletronica\urna\obj\x86\Debug\urna.pdb
